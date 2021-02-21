@@ -3,7 +3,7 @@
 <!--
 **Ishan-Chanuka/Ishan-Chanuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--  -->
-Here are some ideas to get you started:
+I'm Ishan Chanuka:
 
 - 🔭 I’m currently studying at <strong>NSBM Green University</strong> <br/>
 - 🌱 I’m currently learning <strong>Python GUI</strong> <br/>
