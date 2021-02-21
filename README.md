@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at <strong>NSBM Green University</strong> <br/>
 - 🌱 I’m currently learning <strong>Python GUI</strong> <br/>
-- 👯 I’m looking to collaborate on <strong>open source and commercial projects</strong> <br/>
-- 
+- 👯 I’m looking to collaborate on <strong>open source and commercial projects</strong> <br/> 
 <!-- -->
 ![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=Ishan-Chanuka&layout=compact&langs_count=8&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Chanuka&layout=compact&langs_count=8&theme=light)
