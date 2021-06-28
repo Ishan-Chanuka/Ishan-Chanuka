@@ -5,8 +5,8 @@
 <!--  -->
 <strong>I'm Ishan Chanuka,</Strong>
 
-- 🔭 I’m currently studying at <strong>NSBM Green University</strong> <br/>
-- 🌱 I’m currently learning <strong>Python GUI</strong> <br/>
+- 🔭 I’m currently studying <strong>C# Programmin Language</strong> <br/>
+- 🌱 I’m currently following <strong>Software Engineer</strong> degree at <strong>NSBM Green University</strong> <br/>
 - 👯 I’m looking to collaborate on <strong>open source and commercial projects</strong> <br/> 
 <!-- -->
 <!--
