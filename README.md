@@ -6,7 +6,7 @@
 Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergraduate living in Sri Lanka. I am interest in .net development, but I have hands on experiences in enterprise web application development, Flutter development with firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open source projects or any commercial projects.
 </p>
 <p>
-<center>insta facebook linkedin</center>
+
 </p>
 
 
