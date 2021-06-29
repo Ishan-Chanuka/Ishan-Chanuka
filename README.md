@@ -3,11 +3,13 @@
 <!--
 **Ishan-Chanuka/Ishan-Chanuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--  -->
+<center>
 <strong>I'm Ishan Chanuka,</Strong>
 
 - 🔭 I’m currently studying <strong>C# Programmin Language</strong> <br/>
 - 🌱 I’m currently following <strong>Software Engineer</strong> degree at <strong>NSBM Green University</strong> <br/>
 - 👯 I’m looking to collaborate on <strong>open source and commercial projects</strong> <br/> 
+</center>
 <!-- -->
 <!--
 ![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=Ishan-Chanuka&layout=compact&langs_count=8&theme=light)
