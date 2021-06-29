@@ -2,8 +2,12 @@
 <p align="center"> <img src="https://www.teahub.io/photos/full/93-931968_abstract-dual-monitor-wallpaper-hd.jpg" alt="image" /> </p>
 
 <p align="center">
-
 Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergraduate living in Sri Lanka. I am interest in .net development, but I have hands on experiences in enterprise web application development, Flutter development with firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open source projects or any commercial projects.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishan-chanuka-7a6a5b1a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+<a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </p>
 
 
