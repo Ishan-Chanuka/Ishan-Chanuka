@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <p align="left"> <img src="https://www.teahub.io/photos/full/93-931968_abstract-dual-monitor-wallpaper-hd.jpg" alt="image" /> </p>
-
+<p align="center">
 <strong>I'm Ishan Chanuka,</Strong>
 
 - 🔭 I’m currently studying <strong>C# Programmin Language</strong> <br/>
 - 🌱 I’m currently following <strong>Software Engineer</strong> degree at <strong>NSBM Green University</strong> <br/>
 - 👯 I’m looking to collaborate on <strong>open source and commercial projects</strong> <br/> 
 
-
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Chanuka&layout=compact&langs_count=8&theme=light)
 <br />
 
