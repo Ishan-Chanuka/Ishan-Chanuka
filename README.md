@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Ishan-Chanuka/Ishan-Chanuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--  -->
+<p align="left"> <img src="https://www.teahub.io/photos/full/93-931968_abstract-dual-monitor-wallpaper-hd.jpg" alt="image" /> </p>
 
 <strong>I'm Ishan Chanuka,</Strong>
 
@@ -10,10 +8,7 @@
 - 🌱 I’m currently following <strong>Software Engineer</strong> degree at <strong>NSBM Green University</strong> <br/>
 - 👯 I’m looking to collaborate on <strong>open source and commercial projects</strong> <br/> 
 
-<!-- -->
-<!--
-![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=Ishan-Chanuka&layout=compact&langs_count=8&theme=light)
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Chanuka&layout=compact&langs_count=8&theme=light)
 <br />
 
