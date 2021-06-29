@@ -31,6 +31,6 @@ Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergradua
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm">
+<img src="https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android studio">
 </p>
