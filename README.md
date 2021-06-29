@@ -1,6 +1,7 @@
 
 <p align="center"> <img src="https://www.teahub.io/photos/full/93-931968_abstract-dual-monitor-wallpaper-hd.jpg" alt="image" /> </p>
-
+<br>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=ED8B00" atl="Ishan-Chanuka"</p>
 <p align="center">
 Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergraduate living in Sri Lanka. I am interest in .net development, but I have hands on experiences in enterprise web application development, Flutter development with firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open source projects or any commercial projects.
 </p>
@@ -39,5 +40,3 @@ Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergradua
 <img src="https://img.shields.io/badge/Android_Studio-2FCC49?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android studio">
 <img src="https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
 </p>
-<br>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=FEA443" atl="Ishan-Chanuka"</p>
