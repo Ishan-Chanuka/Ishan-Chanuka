@@ -6,7 +6,7 @@ Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergradua
 </p>
 
 
-<h3> ### Languages: </h3>
+<h3> Languages: </h3>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -18,7 +18,7 @@ Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergradua
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 </p>
 
-<h3> ### Frameworks : </h3>
+<h3> Frameworks : </h3>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -27,7 +27,7 @@ Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergradua
 </P>
 
 
-<h3> ### Tools: </h3>
+<h3> Tools: </h3>
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
