@@ -1,16 +1,10 @@
-### Hi there 👋
 
 <p align="left"> <img src="https://www.teahub.io/photos/full/93-931968_abstract-dual-monitor-wallpaper-hd.jpg" alt="image" /> </p>
+<h5><strong>Dark mode always win</strong></h5>
 <p align="center">
-<strong>I'm Ishan Chanuka,</Strong>
-
-- 🔭 I’m currently studying <strong>C# Programmin Language</strong> <br/>
-- 🌱 I’m currently following <strong>Software Engineer</strong> degree at <strong>NSBM Green University</strong> <br/>
-- 👯 I’m looking to collaborate on <strong>open source and commercial projects</strong> <br/> 
-
+Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergraduate living in Sri Lanka. I am interest in .net development, but I have hands on experiences in enterprise web application development, Flutter development with firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open source projects or any commercial projects.
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Chanuka&layout=compact&langs_count=8&theme=light)
-<br />
+
 
 ### Languages:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
