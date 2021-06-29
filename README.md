@@ -18,10 +18,12 @@ Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergradua
 
 
 <p align="center"> ### Frameworks : </P>
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt=".net">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</P>
 
 
 <p align="center"> ### Tools: </P>
