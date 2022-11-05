@@ -3,7 +3,7 @@
 <br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=ED8B00" atl="Ishan-Chanuka"</p>
 <p align="center">
-Hi there, I am Ishan Kodippiliarachchi who is a Software Engineering undergraduate living in Sri Lanka. I am interest in .net development, but I have hands on experiences in enterprise web application development, Flutter development with firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open source projects or any commercial projects.
+Hi there, I am Ishan Kodippiliarachchi, a Software Engineering undergraduate living in Sri Lanka. I am interested in .net development, but I have hands-on experience in enterprise web application development and Flutter development with firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open-source or commercial projects.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ishan-chanuka-7a6a5b1a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
