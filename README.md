@@ -1,9 +1,9 @@
 
-<p align="center"> <img src="https://www.teahub.io/photos/full/93-931968_abstract-dual-monitor-wallpaper-hd.jpg" alt="image" /> </p>
+<p align="center"> <img src="https://c4.wallpaperflare.com/wallpaper/404/780/895/multiple-display-dual-monitors-abstract-digital-art-wallpaper-preview.jpg" alt="image" /> </p>
 <br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=ED8B00" atl="Ishan-Chanuka"</p>
 <p align="center">
-Hi there, I am Ishan Kodippiliarachchi, a Software Engineering undergraduate living in Sri Lanka. I am interested in .net development, but I have hands-on experience in enterprise web application development and Flutter development with firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open-source or commercial projects.
+Hi there, I am Ishan Kodippiliarachchi, a Software Engineering undergraduate living in Sri Lanka. I am interested in .net development, but I have hands-on experience in enterprise web application development and Flutter development with Firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open-source or commercial projects.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ishan-chanuka-7a6a5b1a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
