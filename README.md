@@ -1,17 +1,25 @@
 
 <p align="center"> <img src="https://c4.wallpaperflare.com/wallpaper/404/780/895/multiple-display-dual-monitors-abstract-digital-art-wallpaper-preview.jpg" alt="image" /> </p>
 <br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=ED8B00" atl="Ishan-Chanuka"</p>
-<p align="center">
-Hi there, I am Ishan Kodippiliarachchi, a Software Engineering undergraduate living in Sri Lanka. I am interested in .net development, but I have hands-on experience in enterprise web application development and Flutter development with Firebase. I am also passionate about designing UI for any applications or web applications. I am currently contributing to the FOSS community at NSBM Green University. So, I’m looking forward to collaborating on open-source or commercial projects.
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=48FA28" atl="Ishan-Chanuka"</p>
+<p>
+Hello! I'm a Junior .NET Developer with over a year of industry experience under my belt, and a profound passion for backend development. I've spent the past year deepening my understanding of .NET, SQL, and building my skills in backend technologies.
+
+My journey in tech started with a love for problem-solving and I've found great satisfaction in being able to bring solutions to life through code. I have a deep-seated appreciation for open-source software and I enjoy contributing to these projects whenever I can.
+
+Although my focus has been primarily on backend development, I am currently expanding my expertise to encompass full-stack development, especially honing my skills in AngularJS.
+
+I firmly believe in continuous learning, and I’m always ready to step out of my comfort zone to explore new technologies and methodologies. I'm looking forward to growing as a full-stack developer and am excited about the opportunities and challenges that lie ahead.
+
+Feel free to connect or collaborate with me on exciting projects. Looking forward to building awesome stuff together!
 </p>
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ishan-chanuka-7a6a5b1a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://mobile.twitter.com/IshanChanuka2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 <a href="https://www.instagram.com/_ishan.k_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </p>
 
-
+<!--
 <h3> Languages: </h3>
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -40,3 +48,4 @@ Hi there, I am Ishan Kodippiliarachchi, a Software Engineering undergraduate liv
 <img src="https://img.shields.io/badge/Android_Studio-2FCC49?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android studio">
 <img src="https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
 </p>
+-->
