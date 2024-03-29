@@ -49,3 +49,5 @@ Feel free to connect or collaborate with me on exciting projects. Looking forwar
 <img src="https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
 </p>
 -->
+
+<p align="center"> <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6606c653da1671f986d813e1?variant=dark" alt="roadmap.sh"/></a> </p>
