@@ -50,4 +50,4 @@ Feel free to connect or collaborate with me on exciting projects. Looking forwar
 </p>
 -->
 
-<p align="center"> <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6606c653da1671f986d813e1?variant=dark" alt="roadmap.sh"/></a> </p>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6606c653da1671f986d813e1?variant=dark" alt="roadmap.sh"/></a>
