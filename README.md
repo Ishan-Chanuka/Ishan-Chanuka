@@ -3,11 +3,11 @@
 <br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=48FA28" atl="Ishan-Chanuka"</p>
 <p>
-Hello! I'm a Junior .NET Developer with over a year of industry experience under my belt, and a profound passion for backend development. I've spent the past year deepening my understanding of .NET, SQL, and building my skills in backend technologies.
+Hello! I'm a .NET Developer with over two years of industry experience under my belt, and a profound passion for backend development. I've spent the past two years deepening my understanding of .NET, SQL, and building my skills in backend technologies.
 
 My journey in tech started with a love for problem-solving and I've found great satisfaction in being able to bring solutions to life through code. I have a deep-seated appreciation for open-source software and I enjoy contributing to these projects whenever I can.
 
-Although my focus has been primarily on backend development, I am currently expanding my expertise to encompass full-stack development, especially honing my skills in AngularJS.
+Although my focus has been primarily on backend development, I am currently expanding my expertise to encompass full-stack development, especially honing my skills in Angular.
 
 I firmly believe in continuous learning, and I’m always ready to step out of my comfort zone to explore new technologies and methodologies. I'm looking forward to growing as a full-stack developer and am excited about the opportunities and challenges that lie ahead.
 
